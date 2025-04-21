@@ -1,3 +1,9 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 # Machine Learning for Commodity Price Forecasting
 
 This project focuses on forecasting the prices of three essential agricultural commodities in West Java, Indonesia: **shallots (bawang merah)**, **garlic (bawang putih)**, and **bird’s eye chili (cabai rawit)**. The forecasting is based on time series data using advanced LSTM-based deep learning models, including STL decomposition and attention mechanisms.
@@ -51,3 +57,14 @@ Contains pre-trained models saved in both `.h5` and Keras `SavedModel` formats, 
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+[contributors-shield]: https://img.shields.io/github/contributors/LokaFresh-VegeNation/Machine-Learning.svg?style=for-the-badge
+[contributors-url]: https://github.com/LokaFresh-VegeNation/Machine-Learning/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LokaFresh-VegeNation/Machine-Learning.svg?style=for-the-badge
+[forks-url]: https://github.com/LokaFresh-VegeNation/Machine-Learning/network/members
+[stars-shield]: https://img.shields.io/github/stars/LokaFresh-VegeNation/Machine-Learning.svg?style=for-the-badge
+[stars-url]: https://github.com/LokaFresh-VegeNation/Machine-Learning/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LokaFresh-VegeNation/Machine-Learning.svg?style=for-the-badge
+[issues-url]: https://github.com/LokaFresh-VegeNation/Machine-Learning/issues
+[license-shield]: https://img.shields.io/github/license/LokaFresh-VegeNation/Machine-Learning.svg?style=for-the-badge
+[license-url]: https://github.com/LokaFresh-VegeNation/Machine-Learning/blob/main/LICENSE
